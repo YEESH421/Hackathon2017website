@@ -48,13 +48,13 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-
+ghj
 li {
   display: inline-block;
   margin: 0 10px;
 }
 
-a {ggggggggg
+a {
   color: #42b983;
 }
 </style>
